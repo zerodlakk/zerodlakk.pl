@@ -1,5 +1,4 @@
-# zerodlakk.pl
-Repozytorium organizacji "Zero dla Kościoła katolickiego"
+# zerodlakk.pl - Repozytorium organizacji "Zero dla Kościoła katolickiego"
 
 # MANIFEST
 My, ludzie wolni od religijnej indoktrynacji, sądzimy, że nasz kraj zasługuje na wprowadzenie zasad świeckiej praworządności do wszystkich sfer życia publicznego. Postulujemy realny rozdział Kościoła i państwa, oczekujemy od polskich władz walki z dyskryminacją i bezwzględnego stosowania zasady równości wszystkich wobec prawa. Walczymy o Polskę wolną od dyktatu religii! Nie żądamy wiele, chcemy tylko ZERO, ZERO dla Kk!
